@@ -28,3 +28,5 @@ print(f'Valor da parcela: {valor_parcela:.2f}')
 print('Obrigado, volte sempre!')
 
 print('Joao Pedro A.B Duarte')
+
+input("Pressione Enter para sair...")
